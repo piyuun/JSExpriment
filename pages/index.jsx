@@ -28,20 +28,20 @@ function Home() {
           <Link href='/slate' className={styles.card}>
             <div className={styles.card}>
               <h2>Slate Test &rarr;</h2>
-              <p>Experimnets of slate component</p>
+              <p>Experiments of slate component</p>
             </div>
           </Link>
 
           <Link href='/quill'>
             <div className={styles.card}>
               <h2>Quill Test &rarr;</h2>
-              <p>Experimnets of quill component</p>
+              <p>Experiments of quill component</p>
             </div>
           </Link>
-          <Link href='/' className={styles.card}>
+          <Link href='/tiptap' className={styles.card}>
             <div className={styles.card}>
-              <h2>Test4 &rarr;</h2>
-              <p>To be continued</p>
+              <h2>Tiptap Test &rarr;</h2>
+              <p>Experiments of tiptap component</p>
             </div>
           </Link>
         </div>
